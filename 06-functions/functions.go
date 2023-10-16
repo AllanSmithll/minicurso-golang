@@ -1,6 +1,6 @@
 /*
 Allan Alves Amâncio - Minicurso de Golang - IFTECH - IFPB
-Conteúdo: Functions
+Conteúdo: Funções
 Data: 15/10/2023
 */
 package main
