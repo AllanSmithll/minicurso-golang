@@ -10,6 +10,7 @@ import "fmt"
 // %d -> inteiro
 // %f -> float
 // %s -> string
+// %c -> caracter
 
 func main() {
 	var idade = 18                                               // Número inteiro variável

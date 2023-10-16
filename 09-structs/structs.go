@@ -1,3 +1,8 @@
+/*
+Allan Alves Amâncio - Minicurso de Golang - IFTECH - IFPB
+Conteúdo: Structs
+Data: 16/10/2023
+*/
 package main
 
 import "fmt"
