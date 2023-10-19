@@ -8,7 +8,7 @@ package main
 import "fmt"
 
 func main() {
-	const IDADE = 18
+	const IDADE = 16
 	if IDADE >= 18 {
 		fmt.Println("Você é de maior!")
 	} else {

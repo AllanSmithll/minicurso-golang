@@ -10,6 +10,6 @@ import "fmt"
 func main() {
 	const MAX_ROTACOES_LACO = 10 // Máximo de rotações do laço
 	for i := 1; i <= MAX_ROTACOES_LACO; i++ {
-		fmt.Println("Número:", i) // é mostrado na tela os números de 1 até o máximo de rotações do laço
+		fmt.Printf("Número: %d", i) // é mostrado na tela os números de 1 até o máximo de rotações do laço
 	}
 }

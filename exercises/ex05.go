@@ -15,7 +15,7 @@ func main() {
 
 	for i, fruta := range frutas {
 		if fruta == fruta_escolhida {
-			fmt.Printf("A frutas escolhida (%s) está no array, na posição %d.", frutas[i], i)
+			fmt.Printf("A fruta escolhida (%s) está no array, na posição %d.", frutas[i], i)
 		}
 	}
 }

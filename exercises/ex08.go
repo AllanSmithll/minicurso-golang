@@ -16,7 +16,7 @@ func inverterFrase(frase string) string {
 }
 
 func main() {
-    frase := "O Go e incrivel!"
+    frase := "O Go e incrivelmente ...!"
     fraseInvertida := inverterFrase(frase)
 
     fmt.Printf("Frase original: %s\n", frase)
